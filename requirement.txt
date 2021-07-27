@@ -3,3 +3,6 @@ emoji
 type option
 colors
 vibrant
+back ground
+font
+vide confere
